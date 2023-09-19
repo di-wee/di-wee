@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @di-wee
+- 👋 Hi, I’m Dionis
 - 👀 I’m interested in coding and improving my skillset!
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me ...
 
 <!---
 di-wee/di-wee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
